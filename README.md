@@ -1,0 +1,1 @@
+This GitHub repository is dedicated to Python programming exercises, offering a structured and hands-on approach to learning and practicing Python. It provides a range of challenges, projects, or coding problems suitable for various skill levels, from beginners
