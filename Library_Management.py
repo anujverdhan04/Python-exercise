@@ -85,9 +85,8 @@ class entity:
            
    
 
-abc = entity()
-abc.user_type()
-abc.books()
+run = entity()
+run.user_type()
+run.books()
 
-# e = entity()
-# print(e)
+
